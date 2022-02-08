@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.exe
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.deps.json
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.runtimeconfig.json
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.runtimeconfig.dev.json
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.dll
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\ref\task 3.12.dll
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\bin\Debug\net5.0\task 3.12.pdb
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.AssemblyInfo.cs
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.dll
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\ref\task 3.12.dll
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.pdb
+C:\Users\User\Desktop\code academy 23.01~\task\task 3.12\obj\Debug\net5.0\task 3.12.genruntimeconfig.cache
